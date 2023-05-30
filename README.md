@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, K8's and CI/CD.**
 
-- 📫 How to reach me **federicofernandezcontacto@gmail.com**
+- 📫 Reach me at: **federicofernandezcontacto@gmail.com**
 
 - ⚡ Fun fact **I'm a huge Nirvana fan.**
 
