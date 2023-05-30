@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Federico.</h1>
-<h3 align="center">Looking to land my first job. Making my way in life.</h3>
+<h3 align="center">Looking to land my first job. Making my way through life.</h3>
 
 <img align= "right" alt="coding" width="400" src="https://i.imgur.com/Sp02m90.gif">
 
